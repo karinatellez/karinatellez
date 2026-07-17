@@ -1,4 +1,6 @@
-# Hi, I'm Karina 👋
+# Hola, soy Karina 👋🏽
+
+Software Analysis and Development Student
 
 Python • SQL • Data Analytics
 
