@@ -1,4 +1,4 @@
-# Hola, soy Karina 👋🏽
+# Hola, soy Karina 
 
 Software Analysis and Development Student
 
