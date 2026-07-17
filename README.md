@@ -13,9 +13,8 @@ Software Analysis and Development Student.
 - English Learning platform
 - Personal Portafolio (coming Soon)
 ## Currently Learning 
-C
 Backend Development
-APIs
-Software Archutecture
+REST APIs
+Software Architecture
 ## Connect with me
 LinkedIn:
