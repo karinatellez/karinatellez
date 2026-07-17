@@ -1,3 +1,6 @@
-# Hola, soy Karina 
-Python * SQL * Data Analytics
-Desarrollo proyectos, aprendo cada dia
+# Hi, I'm Karina 👋
+
+Python • SQL • Data Analytics
+
+Building projects, learning every day.
+
