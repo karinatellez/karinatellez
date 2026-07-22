@@ -1,6 +1,6 @@
 # Hola, soy Karina 
 
-Software Analysis and Development Student
+building responsive web applications while learning Software Development and Data Analysis
 
 Python • SQL • Data Analytics
 
